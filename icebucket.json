@@ -1,0 +1,57 @@
+[
+    {
+        "from": "Stephen Finger",
+        "to": ["Nikki Haley"],
+    },
+    {
+        "from": "Nikki Haley",
+        "to": ["Edwin McCain", "Dabo Swinney", "Stephen Colbert"],
+        "date": "2014-08-14",
+        "url": "https://www.youtube.com/watch?v=bdy3Qvd8yMg"
+    },
+    {
+        "from": "Scott O’Neill",
+        "to": ["Chris Christie", "Dana White", "Joel Embiid"],
+        "url": "https://www.facebook.com/photo.php?v=10152607666874583&set=vb.78722009582&type=2&theater"
+    },
+    {
+        "from": "Dana White",
+        "to": ["Shaquille O'Neal", "Ronda Rousey", "Lorenzo Fertitta"],
+        "url": "http://instagram.com/p/rnkB_YPA0_/"
+    },
+    {
+        "from": "Ronda Rousey",
+        "to": ["Sylvester Stallone", "Dwayne Johnson", "Gina Carano"],
+        "url": "http://www.foxsports.com/ufc/haymaker/watch-ronda-rousey-get-soaked-taking-the-als-ice-bucket-challenge-081314"
+    },
+    {
+        "from": "Chris Christie",
+        "to": ["Cory Booker", "Mark Zuckerberg", "Jimmy Fallon"],
+        "url": "https://www.facebook.com/photo.php?v=10154504678515389"
+    },
+    {
+        "from": "Mark Zuckerberg",
+        "to": ["Bill Gates", "Sheryl Sandberg", "Reed Hastings"],
+        "url": "https://www.facebook.com/photo.php?v=10101586925575221&set=vb.4&type=2&theater"
+    },
+    {
+        "from": "Sheryl Sandberg",
+        "to": ["Melinda Gates"],
+        "url": "https://www.youtube.com/watch?v=pNtp4aYxzpo"
+    },
+    {
+        "from": "Melinda Gates",
+        "to": ["Katie Couric", "Stephen Colbert", "Yuri Milner", "Phoebe Gates"],
+        "url": "https://www.youtube.com/watch?v=v5Vo9k6BPn4"
+    },
+    {
+        "from": "Bill Gates",
+        "to": ["Elon Musk", "Ryan Seacrest", "Chris Anderson"],
+        "url": "https://www.youtube.com/watch?v=XS6ysDFTbLU"
+    },
+    {
+        "from": "Ryan Seacrest",
+        "to": ["David Beckham", "Selena Gomez", "Kevin Systrom"],
+        "url": "https://www.youtube.com/watch?v=-tnywhcDaAc"
+    }
+]
