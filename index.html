@@ -13,7 +13,6 @@
         <link rel="stylesheet" href="css/bootstrap.min.css">
         <style>
             body {
-                padding-top: 50px;
                 padding-bottom: 20px;
             }
         </style>
@@ -27,6 +26,17 @@
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
     <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h1>The Ice Bucket Challenge Network<p>
+          <small>Hover over the boxes to see who challenged and who was challenged by that individual. Click to view their video.</small></h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-8" id="main"></div>
+        <div class="col-md-4" id="side"></div>
+      </div>
 
       <hr>
 
@@ -37,6 +47,7 @@
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.0.min.js"><\/script>')</script>
 
         <script src="js/vendor/bootstrap.min.js"></script>
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
 
         <script src="js/main.js"></script>
 
