@@ -1,57 +1,144 @@
 [
     {
         "from": "Stephen Finger",
-        "to": ["Nikki Haley"]
+        "title": "Economics Professor, University of South Carolina",
+        "to": ["Nikki Haley"],
+        "url": "https://www.youtube.com/watch?v=efmkcV6jd6U"
     },
     {
         "from": "Nikki Haley",
+        "title": "Governor of South Carolina",
         "to": ["Edwin McCain", "Dabo Swinney", "Stephen Colbert"],
         "date": "2014-08-14",
         "url": "https://www.youtube.com/watch?v=bdy3Qvd8yMg"
     },
     {
-        "from": "Scott O’Neill",
+        "from": "Scott O'Neill",
+        "title": "CEO, New Jersey Devils",
         "to": ["Chris Christie", "Dana White", "Joel Embiid"],
         "url": "https://www.facebook.com/photo.php?v=10152607666874583&set=vb.78722009582&type=2&theater"
     },
     {
         "from": "Dana White",
+        "title": "President, Ultimate Fighting Championship",
         "to": ["Shaquille O'Neal", "Ronda Rousey", "Lorenzo Fertitta"],
         "url": "http://instagram.com/p/rnkB_YPA0_/"
     },
     {
         "from": "Ronda Rousey",
+        "title": "American mixed martial artist",
         "to": ["Sylvester Stallone", "Dwayne Johnson", "Gina Carano"],
         "url": "http://www.foxsports.com/ufc/haymaker/watch-ronda-rousey-get-soaked-taking-the-als-ice-bucket-challenge-081314"
     },
     {
         "from": "Chris Christie",
+        "title": "Governor of New Jersey",
         "to": ["Cory Booker", "Mark Zuckerberg", "Jimmy Fallon"],
         "url": "https://www.facebook.com/photo.php?v=10154504678515389"
     },
     {
         "from": "Mark Zuckerberg",
+        "title": "Founder and CEO, Facebook",
         "to": ["Bill Gates", "Sheryl Sandberg", "Reed Hastings"],
         "url": "https://www.facebook.com/photo.php?v=10101586925575221&set=vb.4&type=2&theater"
     },
     {
         "from": "Sheryl Sandberg",
+        "title": "COO, Facebook",
         "to": ["Melinda Gates"],
         "url": "https://www.youtube.com/watch?v=pNtp4aYxzpo"
     },
     {
         "from": "Melinda Gates",
+        "title": "Co-founder, Bill & Melinda Gates Foundation",
         "to": ["Katie Couric", "Stephen Colbert", "Yuri Milner", "Phoebe Gates"],
         "url": "https://www.youtube.com/watch?v=v5Vo9k6BPn4"
     },
     {
         "from": "Bill Gates",
+        "title": "Former CEO and chairman, Microsoft",
         "to": ["Elon Musk", "Ryan Seacrest", "Chris Anderson"],
         "url": "https://www.youtube.com/watch?v=XS6ysDFTbLU"
     },
     {
         "from": "Ryan Seacrest",
+        "title": "American radio personality, television host, and producer",
         "to": ["David Beckham", "Selena Gomez", "Kevin Systrom"],
         "url": "https://www.youtube.com/watch?v=-tnywhcDaAc"
+    },
+    {
+        "from": "Phil Schiller",
+        "title": "Senior VP of worldwide marketing, Apple",
+        "to": ["Tim Cook", "Kim Gassett-Schiller", "Chris O'Donnell"],
+        "url": "https://twitter.com/pschiller/status/499751668414566401"
+    },
+    {
+        "from": "Tim Cook",
+        "title": "CEO, Apple",
+        "to": ["Dr. Dre", "Bob Iger", "Michael Franti"],
+        "url": "https://www.youtube.com/watch?v=uk-JADHkHlI"
+    },
+    {
+        "from": "Dr. Dre",
+        "title": "CEO, Aftermath Entertainment and Beats Electronics",
+        "to": ["Eminem", "Snoop Dogg", "Kendrick Lamar"],
+        "url": "https://www.youtube.com/watch?v=fM8iK3QJfhg"
+    },
+    {
+        "from": "Bob Iger",
+        "title": "CEO, Disney",
+        "to": ["Olivia Pope", "Peter Quill", "Tony Stark"],
+        "url": "https://www.youtube.com/watch?v=FAx03hNqic8"
+    },
+    {
+        "from": "Michael Franti",
+        "title": "Creator and lead vocalist, Michael Franti & Spearhead",
+        "to": ["Woody Harrelson", "Bono", "Oprah Winfrey"],
+        "url": "https://www.youtube.com/watch?v=uk-JADHkHlI"
+    },
+    {
+        "from": "Tim McGraw",
+        "title": "American singer and actor",
+        "to": ["Tyler Perry", "Garrett Hedlund", "Chris Martin"],
+        "url": "https://www.youtube.com/watch?v=iR8itFyg1Mw"
+    },
+    {
+        "from": "Jesse Tyler Ferguson",
+        "title": "Actor, ABC's Modern Family",
+        "to": ["Oprah Winfrey"],
+        "url": "http://instagram.com/p/rnQtP2wEqu/"
+    },
+    {
+        "from": "Tyler Perry",
+        "to": ["Oprah Winfrey", "Gayle King", "Ben Affleck", "Atlanta Falcons"],
+        "url": "https://www.youtube.com/watch?v=AMcp4GZWu-k"
+    },
+    {
+        "from": "Nancy O'Dell",
+        "title": "Host, Entertainment Tonight",
+        "date": "2014-08-15",
+        "to": ["Oprah Winfrey", "Jamie Foxx", "CBS This Morning News Team", "LA Dodgers", "Garth Brooks"]
+    },
+    {
+        "from": "Oprah Winfrey",
+        "to": ["Stephen Speilberg", "Manish Dayal", "Dame Helen Mirren"],
+        "url": "https://www.youtube.com/watch?v=lP4rOB6x6NU"
+    },
+    {
+        "from": "Stephen Speilberg",
+        "title": "American film director, screenwriter, producer, and business magnate",
+        "to": ["George Lucas", "Jeffrey Katzenberg", "J. J. Abrams"],
+        "url": "https://www.youtube.com/watch?v=QFF6EWVSACE"
+    },
+    {
+        "from": "J. J. Abrams",
+        "title": "American film and television producer, screenwriter, director, actor and composer",
+        "to": ["501st Legion", "Greg Grunberg", "Stephen King"],
+        "url": "https://www.facebook.com/photo.php?v=10152651305249752"
+    },
+    {
+        "from": "501st Legion",
+        "to": [],
+        "url": "https://vimeo.com/103766995"
     }
 ]
