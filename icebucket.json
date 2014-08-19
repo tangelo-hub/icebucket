@@ -46,7 +46,13 @@
         "from": "Sheryl Sandberg",
         "title": "COO, Facebook",
         "to": ["Melinda Gates"],
-        "url": "https://www.youtube.com/watch?v=pNtp4aYxzpo"
+        "url": "http://video.cnbc.com/gallery/?video=3000302258"
+    },
+    {
+        "from": "Reed Hastings",
+        "title": "CEO, Netflix",
+        "to": ["Michael Burns", "Eugene Quillin", "Macklemore"],
+        "url": "https://www.youtube.com/watch?v=T-6Sx_RKUkQ"
     },
     {
         "from": "Melinda Gates",
