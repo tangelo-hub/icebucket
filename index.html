@@ -15,6 +15,9 @@
             body {
                 padding-bottom: 20px;
             }
+            #content {
+                padding-top: 20px;
+            }
         </style>
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="css/main.css">
@@ -29,15 +32,17 @@
       <div class="row">
         <div class="col-md-12">
           <h1>The Ice Bucket Challenge Network</h1>
-          <div class="lead">
-            Hover over the boxes to see that person's challengers.
-            Click to view their video.
-            Please consider a donation to <a href="http://alsa.org/">ALS Association</a>.
-          </div>
+          <div class="lead">Hover over the boxes to see that person's challengers. Click to view their video.</div>
+          <div class="lead">Please consider a donation to <a href="http://alsa.org/">ALS Association</a>.</div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8">
+          <input class="form-control" id="search" placeholder="Search name, company, or profession (e.g. Mark, CEO, actor, Apple)"></input>
         </div>
       </div>
 
-      <div class="row">
+      <div class="row" id="content">
         <div class="col-md-8" id="main"></div>
         <div class="col-md-4" id="side"></div>
       </div>

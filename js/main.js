@@ -107,5 +107,19 @@ $(function () {
             .on('click', function (d) {
                 window.open(d.url,'_blank');
             });
+        $('#search').keyup(function () {
+            var terms = $('#search').val().toLowerCase().split(' ');
+            peopleImage.transition(1000).style('opacity', function (d) {
+                var i, match = true;
+                for (i = 0; i < terms.length; ++i) {
+                    if (d.from.toLowerCase().indexOf(terms[i]) < 0 && (d.title === undefined || d.title.toLowerCase().indexOf(terms[i]) < 0)) {
+                        match = false;
+                        break;
+                    }
+                }
+                return match ? 1 : 0.2;
+            });
+            console.log(term);
+        });
     });
 });
