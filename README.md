@@ -12,21 +12,8 @@ Questions
 
 Actors
 ------
-* Jessica Alba
-* Tom Arnold
-* Cookie Monster
-* Simon Cowell
-* Russell Crowe
-* Tom Cruise
-* Carson Daly
-* Vin Diesel
-* Shannen Doherty
-* Robert Downey, Jr.
-* Jimmy Fallon
-* James Franco
-* Jorge Garcia
-* Ricky Gervais
-* Anne Hathaway
+* Tom Arnold (could not find video)
+* Elmo (not sure if legit)
 * Jennifer Love Hewitt
 * Hugh Jackman
 * Kermit the Frog
@@ -41,6 +28,7 @@ Actors
 * Gwyneth Paltrow
 * Sarah Jessica Parker
 * Adam Sandler
+* Ben Stiller
 * William Shatner
 * Charlie Sheen
 
@@ -52,7 +40,6 @@ Music
 * Jimmy Buffett
 * Drake
 * Foo Fighters
-* Selena Gomez
 * Lady Gaga
 * Adam Levine
 * Jennifer Lopez

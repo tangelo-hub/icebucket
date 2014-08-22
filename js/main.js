@@ -2,9 +2,9 @@
 $(function () {
     d3.json('icebucket.json', function (error, data) {
         var svg,
-            width = 600,
-            padding = 10,
-            itemsPerRow = 5,
+            width = 640,
+            padding = 8,
+            itemsPerRow = 8,
             size = (width - padding * (itemsPerRow - 1)) / itemsPerRow,
             height = Math.ceil(data.length / itemsPerRow) * (size + padding),
             people,
@@ -41,18 +41,18 @@ $(function () {
         peopleGroup = people.enter().append('g');
 
         peopleRect = peopleGroup.append('rect')
-            .attr('x', function (d, i) { return (size + padding) * (i % 5); })
-            .attr('y', function (d, i) { return (size + padding) * Math.floor(i / 5); })
+            .attr('x', function (d, i) { return (size + padding) * (i % itemsPerRow); })
+            .attr('y', function (d, i) { return (size + padding) * Math.floor(i / itemsPerRow); })
             .attr('width', size)
             .attr('height', size)
             .style('fill', 'white')
             .style('opacity', 0);
 
         peopleImage = peopleGroup.append('image')
-            .attr('x', function (d, i) { return (size + padding) * (i % 5) + 10; })
-            .attr('y', function (d, i) { return (size + padding) * Math.floor(i / 5) + 10; })
-            .attr('width', size - 20)
-            .attr('height', size - 20)
+            .attr('x', function (d, i) { return (size + padding) * (i % itemsPerRow) + padding; })
+            .attr('y', function (d, i) { return (size + padding) * Math.floor(i / itemsPerRow) + padding; })
+            .attr('width', size - 2*padding)
+            .attr('height', size - 2*padding)
             .attr('xlink:href', function (d) { return 'img/' + d.from + '.png'; })
             .style('cursor', 'pointer')
             .on('mouseover', function (d) {
