@@ -90,6 +90,114 @@
         "url": "http://instagram.com/p/r9km9ul0F0"
     },
     {
+        "from": "Jennifer Love Hewitt",
+        "title": "American actress, producer, author, television director, and singer-songwriter",
+        "to": ["Les Moonves", "Camryn Manheim", "Adam Venit"],
+        "url": "https://www.youtube.com/watch?v=M3fZ-lp3cw4"
+    },
+    {
+        "from": "Hugh Jackman",
+        "title": "Australian actor and producer",
+        "to": ["Tom Cruise", "Cast of Mission: Impossible 5", "Staff of William Morris Endeavor", "Oscar Isaac", "Cast of Star Wars"],
+        "url": "http://twitpic.com/eads6a"
+    },
+    {
+        "from": "Kermit the Frog",
+        "title": "Muppet on Sesame Street",
+        "to": ["Tina Fey", "Ricky Gervais", "Ty Burrell"],
+        "url": "https://www.facebook.com/photo.php?v=685540594833530"
+    },
+    {
+        "from": "Nicole Kidman",
+        "title": "Actress, singer and film producer",
+        "to": ["Russell Crowe", "Colin Firth", "Jason Bateman"],
+        "url": "https://www.facebook.com/photo.php?v=509175812553002"
+    },
+    {
+        "from": "Jimmy Kimmel",
+        "title": "Host and creator of Jimmy Kimmel Live!",
+        "to": ["Matt Damon"],
+        "url": "https://www.youtube.com/watch?v=_5V8gZKOebQ"
+    },
+    {
+        "from": "Stephen King",
+        "title": "American author",
+        "to": ["John Grisham"],
+        "url": "https://www.youtube.com/watch?v=XO7lFV2e-xA"
+    },
+    {
+        "from": "Ashton Kutcher",
+        "title": "American actor, investor, producer",
+        "to": ["Jon Cryer", "Dax Shepard"],
+        "url": "https://www.youtube.com/watch?v=I_YChPGQels"
+    },
+    {
+        "from": "Lindsay Lohan",
+        "title": "American actress, model, producer and recording artist",
+        "to": ["Duffield Children's Center", "Prince Harry", "Jared Leto"],
+        "url": "https://www.youtube.com/watch?v=XKc8yRuYVss"
+    },
+    {
+        "from": "Mario Lopez",
+        "title": "American television host and actor",
+        "to": ["Joe Manganiello"],
+        "url": "https://www.youtube.com/watch?v=dJTNrxwMU8k"
+    },
+    {
+        "from": "Jennifer Morrison",
+        "title": "American actress, model and film producer",
+        "to": [],
+        "url": "http://instagram.com/p/rd1SpCoFR9"
+    },
+    {
+        "from": "Conan O'Brien",
+        "title": "American television host, comedian, writer, producer, musician, and voice actor",
+        "to": ["Jimmy Carter", "Pelé", "Haley Joel Osment"],
+        "url": "http://teamcoco.com/video/conan-ice-bucket-challenge"
+    },
+    {
+        "from": "Gwyneth Paltrow",
+        "title": "American actress, singer, and food writer",
+        "to": ["Cameron Diaz", "Chris Martin", "Stella McCartney"],
+        "url": "http://instagram.com/p/r8EosBiPQz"
+    },
+    {
+        "from": "Sarah Jessica Parker",
+        "title": "American actress, model, singer and producer",
+        "to": ["Joan Rivers", "Kim Kardashian", "Billy Eichner"],
+        "url": "http://instagram.com/p/r8djX-CYFL/"
+    },
+    {
+        "from": "Adam Sandler",
+        "title": "American actor, comedian, screenwriter, entrepreneur, film producer, and musician",
+        "to": ["Shaq", "Betty White", "Macaulay Culkin"],
+        "url": "http://instagram.com/p/r5tFW7qQNJ/"
+    },
+    {
+        "from": "Ben Stiller",
+        "title": "American actor, comedian, screenwriter, film director, and producer",
+        "to": ["Judd Apatow", "Ricky Gervais", "Rafael Nadal"],
+        "url": "https://www.youtube.com/watch?v=sGXkDjQEmfQ"
+    },
+    {
+        "from": "William Shatner",
+        "title": "Canadian actor, musician, singer, author, film director, spokesman and comedian",
+        "to": ["Tom Bergeron", "Wynonna Judd", "Josh Groban"],
+        "url": "http://www.whosay.com/status/williamshatner/968144"
+    },
+    {
+        "from": "Charlie Sheen",
+        "title": "American actor",
+        "to": ["John Cryer", "Chuck Lorre", "Ashton Kutcher"],
+        "url": "https://www.youtube.com/watch?v=qat9gR5nrpM"
+    },
+    {
+        "from": "Topher Grace",
+        "title": "American actor",
+        "to": ["Danny Masterson", "Wilmer Valderrama", "Ashton Kutcher"],
+        "url": "http://cerealprize.com/self-centered-shit/ice-bucket-challenge"
+    },
+    {
         "from": "Stephen Finger",
         "title": "Economics Professor, University of South Carolina",
         "to": ["Nikki Haley"],

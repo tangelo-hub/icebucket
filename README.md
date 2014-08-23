@@ -14,23 +14,6 @@ Actors
 ------
 * Tom Arnold (could not find video)
 * Elmo (not sure if legit)
-* Jennifer Love Hewitt
-* Hugh Jackman
-* Kermit the Frog
-* Nicole Kidman
-* Jimmy Kimmel
-* Stephen King
-* Ashton Kutcher
-* Lindsay Lohan
-* Mario Lopez
-* Jennifer Morrison
-* Conan O'Brien
-* Gwyneth Paltrow
-* Sarah Jessica Parker
-* Adam Sandler
-* Ben Stiller
-* William Shatner
-* Charlie Sheen
 
 Music
 -----
@@ -53,6 +36,7 @@ Music
 * Shania Twain
 * Carrie Underwood
 * "Weird Al" Yankovic
+* Vanilla Ice
 
 * Kate Upton
 
@@ -66,6 +50,7 @@ TV
 
 Politics
 --------
+* Jenna Bush Hager http://www.today.com/video/today/55873283#55873283
 * George W. Bush
 
 Sports
