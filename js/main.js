@@ -20,8 +20,11 @@ $(function () {
         console.log(data);
         data.forEach(function (d) {
             personMap[d.from] = d;
+            d.date = new Date(d.date);
             d.challengers = [];
         });
+
+        data.sort(function (a, b) { return d3.ascending(a.date, b.date); });
 
         data.forEach(function (d) {
             d.to.forEach(function (dd) {
