@@ -5,18 +5,28 @@ Other curated lists
 -------------------
 * [Wikipedia](http://en.wikipedia.org/wiki/Ice_Bucket_Challenge)
 
-Questions
----------
-* Who challenged Nancy O'Dell?
-* Who challenged Jesse Tyler Ferguson?
+Contributing
+------------
+
+We encourage additions to the database through opening [issues](https://github.com/tangelo-hub/icebucket/issues) and through GitHub pull requests.
+Please include name, date, occupation/title, who the person challenged, and the link to their challenge video.
+For pull requests, include an entry in icebucket.json and a thumbnail (square image of face from their video)
+named e.g. `John Doe.png` where `John Doe` exactly matches the name in the JSON file.
+
+Thanks for your help!
+
+To do
+-----
+
+We'd like to collect the following information if there's time.
 
 Actors
-------
+~~~~~~
 * Tom Arnold (could not find video)
 * Elmo (not sure if legit)
 
 Music
------
+~~~~~
 * Justin Bieber
 * Jon Bon Jovi
 * Garth Brooks
@@ -37,11 +47,10 @@ Music
 * Carrie Underwood
 * "Weird Al" Yankovic
 * Vanilla Ice
-
 * Kate Upton
 
 TV
---
+~~
 * Stephen Colbert
 * Matt Lauer
 * Gordon Ramsay
@@ -49,12 +58,12 @@ TV
 * Martha Stewart
 
 Politics
---------
+~~~~~~~~
 * Jenna Bush Hager http://www.today.com/video/today/55873283#55873283
 * George W. Bush
 
 Sports
-------
+~~~~~~
 * Troy Aikman
 * Usain Bolt
 * Kobe Bryant
@@ -68,7 +77,7 @@ Sports
 * Tiger Woods
 
 Tech
-----
+~~~~
 * Steve Ballmer
 * Jeff Bezos
 * Sergey Brin
@@ -79,6 +88,6 @@ Tech
 * Larry Page
 
 Other
------
+~~~~~
 * Keith Urban (challenged Tim McGraw)
 * Pete Frates (initiator)
