@@ -1,12 +1,9 @@
-Ice Bucket Challenge Database
-=============================
+# Ice Bucket Challenge Database
 
-Other curated lists
--------------------
+## Other curated lists
 * [Wikipedia](http://en.wikipedia.org/wiki/Ice_Bucket_Challenge)
 
-Contributing
-------------
+## Contributing
 
 We encourage additions to the database through opening [issues](https://github.com/tangelo-hub/icebucket/issues) and through GitHub pull requests.
 Please include name, date, occupation/title, who the person challenged, and the link to their challenge video.
@@ -15,18 +12,17 @@ named e.g. `John Doe.png` where `John Doe` exactly matches the name in the JSON 
 
 Thanks for your help!
 
-To do
------
+## To do
 
 We'd like to collect the following information if there's time.
 
-Actors
-~~~~~~
+### Actors
+
 * Tom Arnold (could not find video)
 * Elmo (not sure if legit)
 
-Music
-~~~~~
+### Music
+
 * Justin Bieber
 * Jon Bon Jovi
 * Garth Brooks
@@ -49,21 +45,21 @@ Music
 * Vanilla Ice
 * Kate Upton
 
-TV
-~~
+### TV
+
 * Stephen Colbert
 * Matt Lauer
 * Gordon Ramsay
 * Rachael Ray
 * Martha Stewart
 
-Politics
-~~~~~~~~
+### Politics
+
 * Jenna Bush Hager http://www.today.com/video/today/55873283#55873283
 * George W. Bush
 
-Sports
-~~~~~~
+### Sports
+
 * Troy Aikman
 * Usain Bolt
 * Kobe Bryant
@@ -76,8 +72,8 @@ Sports
 * Thiago Silva
 * Tiger Woods
 
-Tech
-~~~~
+### Tech
+
 * Steve Ballmer
 * Jeff Bezos
 * Sergey Brin
@@ -87,7 +83,7 @@ Tech
 * Satya Nadella
 * Larry Page
 
-Other
-~~~~~
+### Other
+
 * Keith Urban (challenged Tim McGraw)
 * Pete Frates (initiator)
