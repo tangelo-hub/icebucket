@@ -5,7 +5,7 @@
 
 ## Contributing
 
-We encourage additions to the database through opening [issues](https://github.com/tangelo-hub/icebucket/issues) and through GitHub pull requests.
+We encourage additions to the database through opening [issues](https://github.com/tangelo-hub/icebucket/issues/new) and through GitHub pull requests.
 Please include name, date, occupation/title, who the person challenged, and the link to their challenge video.
 For pull requests, include an entry in icebucket.json and a thumbnail (square image of face from their video)
 named e.g. `John Doe.png` where `John Doe` exactly matches the name in the JSON file.
